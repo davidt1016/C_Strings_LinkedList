@@ -1,4 +1,4 @@
-# C 
+# C Programs
 
 ## Running the Code on Terminal
 ```
